@@ -1,8 +1,8 @@
-## Federated-Memae
+# Federated-Memae
 联邦学习框架下基于Memae的异常检测架构
-## 数据集 
+# 数据集 
 cifar10 mnist
-## 模型训练测试命令-cifar10
+# 模型训练测试命令-cifar10
 # cifar10异常检测命令
 python main.py --train/test
 # 联邦学习框架 Local-training
